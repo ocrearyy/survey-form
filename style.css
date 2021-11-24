@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+}
+
+#title {
+	color: #ff9833;
+}
+
+p {
+	color: #ff9833;
+
+	font-weight: bold;
+}
+
+.container {
+	color: white;
+}
+
+#bg {
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#submit {
+	background-color: #9833ff;
+	color: #33ff98;
+	font-weight: bold;
+	text-align: center;
+	margin-left: 40%;
+}
